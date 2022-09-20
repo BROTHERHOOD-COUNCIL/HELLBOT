@@ -15,20 +15,20 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/BROTHERHOOD-COUNCILt/HellBot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/BROTHERHOOD-COUNCIL/Hellbot?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/BROTHERHOOD-COUNCIL/HellBot?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/BROTHERHOOD-COUNCIL/HellBot?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
+![GitHub language count](https://img.shields.io/github/languages/count/BROTHERHOOD-COUNCIL/HellBot?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/TBH_COUNCIL_SUPPORT)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/THE_BROTHERHOOD_COUNCIL)
 
 ------
 ## Deploy 🚀
@@ -37,12 +37,6 @@
 - [![Railway](https://img.shields.io/badge/HellBot-Deploy%20On%20Railway-black?style=for-the-badge&logo=railway)](#Deploy-on-Railway)
 
 - [![Locally](https://img.shields.io/badge/HellBot-Deploy%20Locally-black?style=for-the-badge&logo=linux)](#Deploy-Locally)
-
-------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/pw2jCeM2sN4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/pw2jCeM2sN4)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/8RRFObBQSMU?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/8RRFObBQSMU)
 
 ------
 ## Deploy To Heroku
@@ -65,7 +59,7 @@
 ## Deploy Locally
 
 - Clone the repo. 
-`git clone https://github.com/The-HellBot/Plugins-T.git`
+`git clone https://github.com/BROTHERHOOD-COUNCIL/Plugins-T.git`
 
 - Open Cloned Folder.
 `cd Plugins-T`
@@ -186,6 +180,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖 [Team BROTHERHOOD](https://github.com/THE_BROTHERHOOD_COUNCIL)
 
 ------
