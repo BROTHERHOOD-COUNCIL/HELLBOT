@@ -123,7 +123,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && pip install pyrogram && pip install instagrapi && wget https://raw.githubusercontent.com/The-HellBot/HellBot/master/hell_string.py && python3 hell_string.py`
+`pkg install python wget -y && pip install telethon && pip install pyrogram && pip install instagrapi && wget https://raw.githubusercontent.com/BROTHERHOOD-COUNCIL/HellBot/master/hell_string.py && python3 hell_string.py`
 
 - Select the type of session.
     - Telethon
@@ -180,6 +180,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team BROTHERHOOD](https://github.com/THE_BROTHERHOOD_COUNCIL)
-
+- 💖 [Team BROTHERHOOD](https://t.me/THE_BROTHERHOOD_COUNCIL)
+- ❤️‍🔥 [TEAM HELLBOT](https://github.com/The-HellBot/HellBot)
 ------
