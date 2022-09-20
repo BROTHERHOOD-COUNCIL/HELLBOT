@@ -22,6 +22,11 @@
       "value": "ON",
       "required": false
     },
+      "ALIVE_NAME": {
+      "description": "Fill your Full name or Username like @hunter_is_back. By default it is hell User",
+      "value": "hell user",
+      "required": false
+    },
     "HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
@@ -32,6 +37,35 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
+      "value": ""
+    },
+    "ALIVE_MSG": {
+      "description": "Set Custom Alive Message When entering .mafia Command.",
+      "value": "😈HELLBOT IS ALIVE😈",
+      "required": false
+    },
+    "ALIVE_PIC": {
+      "description": "Put here any telegraph media link for alive pic in .mafia command.",
+      "value": "",
+      "required": false
+    },
+    "BIO_MSG": {
+      "description": "Put Your Telegram Bio Here Required For Auto Bio.",
+      "value": "😈LEGEND'S SAY' TO HELLBOT OP😈",
+      "required": false
+    },
+    "PMPERMIT_PIC": {
+      "description": "put here any telegraph media link for custom pmpermit pic.",
+      "value": "",
+      "required": true
+    },
+    "CUSTOM_PMPERMIT": {
+      "description": "Enter Your custom pm permit msg.",
+      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
+      "required": false
+    },
+    HELLBOT_LOGGER": {
+      "description": "Create a private channel/group add rose then type /id in group.",
       "value": ""
     },
     "HELLBOT_SESSION": {
