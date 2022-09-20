@@ -9,7 +9,7 @@
     "telethon",
     "hellbot",
     "modular",
-    "productivity"
+    "productivity",
   ],
   "repository": "https://github.com/BROTHERHOOD-COUNCIL/HellBot/",
   "env": {
@@ -45,7 +45,7 @@
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
+      "description": "Put here any telegraph media link for alive pic in .hell command.",
       "value": "",
       "required": false
     },
