@@ -59,7 +59,7 @@
 ## Deploy Locally
 
 - Clone the repo. 
-`git clone https://github.com/BROTHERHOOD-COUNCIL/Plugins-T.git`
+`git clone https://github.com/BROTHERHOOD-COUNCIL/Plugins.git`
 
 - Open Cloned Folder.
 `cd Plugins-T`
